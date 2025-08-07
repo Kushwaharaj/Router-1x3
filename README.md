@@ -22,6 +22,23 @@
 - Assertion-based verification
 - FIFO and FSM-based routing logic
 
+## 🖼️ Waveform & Tool Snapshots
+
+### ✅ Synthesis Report
+![Synthesis](docs/synthesis_waveform.png)
+
+### ✅ Linting Report
+![Linting](docs/linting_result.png)
+
+### ✅ Simulation Waveforms
+
+**QuestaSim Output:**  
+![QuestaSim](docs/simulation_questasim.png)
+
+**Vivado Output:**  
+![Vivado](docs/simulation_vivado.png)
+
+
 ## 👤 Author
 Raj Kushwaha  
 🔗 [LinkedIn](https://linkedin.com/in/kushwaharaj)  
