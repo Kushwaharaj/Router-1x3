@@ -1,1 +1,1 @@
-# Router 1x3 – RTL Design and UVM Verification
+# Router 1x3 – RTL Design and Verification
